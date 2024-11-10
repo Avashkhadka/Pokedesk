@@ -1,4 +1,4 @@
-# 🚧 Project Name - Work in Progress 🚧
+# 🚧 Project Pokedesk - Work in Progress 🚧
 
 Welcome to the **Pokedesk** repository! This project is currently under development, and we're excited to share our journey with you. Stay tuned for updates, and feel free to explore the roadmap below.
 
